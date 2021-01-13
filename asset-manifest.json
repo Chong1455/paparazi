@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/paparazi/static/css/main.57d2f914.chunk.css",
+    "main.js": "/paparazi/static/js/main.de9ba8cc.chunk.js",
+    "main.js.map": "/paparazi/static/js/main.de9ba8cc.chunk.js.map",
+    "runtime-main.js": "/paparazi/static/js/runtime-main.a420ee7d.js",
+    "runtime-main.js.map": "/paparazi/static/js/runtime-main.a420ee7d.js.map",
+    "static/css/2.31461e4f.chunk.css": "/paparazi/static/css/2.31461e4f.chunk.css",
+    "static/js/2.44a21d8a.chunk.js": "/paparazi/static/js/2.44a21d8a.chunk.js",
+    "static/js/2.44a21d8a.chunk.js.map": "/paparazi/static/js/2.44a21d8a.chunk.js.map",
+    "static/js/3.8fc17f22.chunk.js": "/paparazi/static/js/3.8fc17f22.chunk.js",
+    "static/js/3.8fc17f22.chunk.js.map": "/paparazi/static/js/3.8fc17f22.chunk.js.map",
+    "index.html": "/paparazi/index.html",
+    "static/css/2.31461e4f.chunk.css.map": "/paparazi/static/css/2.31461e4f.chunk.css.map",
+    "static/css/main.57d2f914.chunk.css.map": "/paparazi/static/css/main.57d2f914.chunk.css.map",
+    "static/js/2.44a21d8a.chunk.js.LICENSE.txt": "/paparazi/static/js/2.44a21d8a.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a420ee7d.js",
+    "static/css/2.31461e4f.chunk.css",
+    "static/js/2.44a21d8a.chunk.js",
+    "static/css/main.57d2f914.chunk.css",
+    "static/js/main.de9ba8cc.chunk.js"
+  ]
+}
