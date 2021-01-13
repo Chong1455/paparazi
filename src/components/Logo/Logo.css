@@ -1,3 +1,9 @@
+.logo {
+	position: absolute;
+	top: 0;
+}
+
+
 .Tilt {
 	background: linear-gradient(89deg, #22c1c3 0%, #fdbb2d 100%);
 }
